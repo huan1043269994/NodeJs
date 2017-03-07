@@ -3,8 +3,8 @@
 - lib目录：存放服务器端的逻辑
 - public子目录：存放客户端文件：如Javascripts,Stylesheets
 - 指明依赖项，package.json
-{包描述文件}
-##包括**name**,**version**,**description**,**dependencies**
+##包括
+**name**,**version**,**description**,**dependencies**
 ##例如 
 > {
 >   "name": "chatrooms",
