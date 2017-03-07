@@ -6,12 +6,5 @@
 ##包括
 **name**,**version**,**description**,**dependencies**
 ##例如 
-> {
->   "name": "chatrooms",
->   "version": "0.0.1",
->   "description": "Minimalist multiroom chat server",
->   "dependencies": {
->     "socket.io": "~0.9.6",
->     "mime": "~1.2.7",
->   }
-> }
+> 我想干什么
+> 你又想干什么
